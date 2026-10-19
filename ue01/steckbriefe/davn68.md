@@ -10,5 +10,5 @@ Einführung in die Programmierung bestanden
 
 ## Das erwarte ich von der Veranstaltung
 
-das ich dieses Modul bestehe
+das ich dieses Modul bestehe!
 
